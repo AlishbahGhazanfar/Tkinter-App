@@ -13,7 +13,7 @@ Welcome to the RainyDaze Radar App, a Tkinter-based desktop application for view
 
 1. Clone the repository.
 2. Install the dependencies from `requirements.txt`.
-3. Run the `radar_app.py` file to start the application.
+3. Run the `RainyDaze.py` file to start the application.
 
 ## Usage
 
